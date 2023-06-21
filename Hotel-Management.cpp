@@ -10,10 +10,10 @@ int main(){
 
 //////////////////////////    INPUT FOR HOTEL      /////////////////////////
 
-    cout<<"Enter total no. of rooms we have:";cin>>qrooms;
-    cout<<"Enter total no. of thalis we have:";cin>>qthalis;
-    cout<<"Enter total no. of shakes we have:";cin>>qshakes;
-    cout<<"Enter total no. of burgers we have:";cin>>qburger;
+    cout<<"Enter total no. of rooms you have:";cin>>qrooms;
+    cout<<"Enter total no. of thalis you have:";cin>>qthalis;
+    cout<<"Enter total no. of shakes you have:";cin>>qshakes;
+    cout<<"Enter total no. of burgers you have:";cin>>qburger;
     cout<<"Enter cost of a room:";cin>>rrooms;
     cout<<"Enter cost of a thali:";cin>>rthalis;
     cout<<"Enter cost of a shake:";cin>>rshakes;
