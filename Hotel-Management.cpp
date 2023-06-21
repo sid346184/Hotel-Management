@@ -9,7 +9,7 @@ int main(){
     int costr,costt,costs,costb;
 
 //////////////////////////    INPUT FOR HOTEL      /////////////////////////
-
+    cout<<"\n\n\t\t=====  INPUT FROM YOUR SIDE  ===== "<<endl;
     cout<<"Enter total no. of rooms you have:";cin>>qrooms;
     cout<<"Enter total no. of thalis you have:";cin>>qthalis;
     cout<<"Enter total no. of shakes you have:";cin>>qshakes;
